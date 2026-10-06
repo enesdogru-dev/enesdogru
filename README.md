@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Enes Doğru 👋</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enesdogru-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Ziyaretçi Sayacı" />
+</p>
+
 <h3 align="center">Computer Engineering Student | DevOps & Cloud Engineer</h3>
 
 <p align="center">
@@ -18,9 +22,17 @@
 
 ### 💻 Tech Stack
 
-- **Cloud & DevOps:** AWS, Kubernetes, Docker, GitHub Actions, Linux (Ubuntu/WSL2), Bash Scripting, Terraform
-- **Software Development:** Java, Spring Boot, C, C#, Git
-- **Databases:** PostgreSQL
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### 🏆 Featured Project
 
@@ -33,6 +45,10 @@
 
 - **LinkedIn:** www.linkedin.com/in/enes-dogru-615044378
 - **Email:** dogruenes69@gmail.com
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enesdogru-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub İstatistikleri" />
+</p>
 
 <br/>
 <p align="center">
