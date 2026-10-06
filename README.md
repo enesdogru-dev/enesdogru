@@ -31,8 +31,8 @@
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [Add Your LinkedIn URL Here]
-- **Email:** [Add Your Email Here]
+- **LinkedIn:** www.linkedin.com/in/enes-dogru-615044378
+- **Email:** dogruenes69@gmail.com
 
 <br/>
 <p align="center">
