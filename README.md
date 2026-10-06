@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Enes Doğru 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enesdogru-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Ziyaretçi Sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=enesdogru-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="enesdogru-dev" />
 </p>
 
 <h3 align="center">Computer Engineering Student | DevOps & Cloud Engineer</h3>
